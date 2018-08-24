@@ -1,6 +1,6 @@
 cask 'shadowsocksx-ng-r8' do
   version  '1.4.3-R8'
-  sha256  '696f9e63370e6f100413c4d72fa807fa3ff80215d946a1fad15dfa4077b577ca'
+  sha256  'b366ddca8e97e451dbb22610b002330b2947a602288d0952b610c77fd868c8e4'
 
   url 'https://github.com/Yihy/Shell_Script/raw/master/apps/ShadowsocksX-NG-R8.zip'
   name 'ShadowsocksX-NG-R8'
